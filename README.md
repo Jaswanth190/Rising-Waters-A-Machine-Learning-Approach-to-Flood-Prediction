@@ -382,5 +382,3 @@ This project implements a complete end-to-end machine learning pipeline:
 The system demonstrates practical integration of machine learning and web development to build a functional flood risk prediction prototype.
 
 ---
-
-Tell me the next step.
