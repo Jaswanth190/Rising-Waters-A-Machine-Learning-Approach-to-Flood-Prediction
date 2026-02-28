@@ -376,9 +376,16 @@ This project implements a complete end-to-end machine learning pipeline:
 * Data Cleaning
 * Feature Scaling
 * Regression Model Training
+  
 * Model Saving
 * Web Deployment
 
 The system demonstrates practical integration of machine learning and web development to build a functional flood risk prediction prototype.
+
+# Team
+Jaswanth Sai Samba
+Dronadula Tharun Kumar
+Suhaiyla Shaik
+Lohith Reddy Bondhu
 
 ---
